@@ -1,3 +1,5 @@
+package Tests;
+
 import org.openjdk.jol.info.GraphLayout;
 
 
