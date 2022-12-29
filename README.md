@@ -1,15 +1,17 @@
 # OOP_Ex1_2022
 
 The following project focus on design patterns.
-In this project we have implemented the UndoableStringBuilder in Java by using the Observer design pattern.
-In Fact, there are 3 main classes- Gruop Admin, Member, UndoableStringBuilder
-the group admin class contains a collection of members and whenever a change in the UndoableStringBuilder object is made the group admin notifies all the members-
+
+In this project we have implemented UndoableStringBuilder in Java by using the Observer design pattern.
+In Fact, there are 3 main classes- Gruop Admin, Member, UndoableStringBuilder.
+
+The group admin class contains a collection of members and whenever a change in the UndoableStringBuilder object is made the group admin notifies all the members-
 sends them the updated value/content of the UndoableStringBuilder object.
 
 ### Extra Info About The Observer Pattern: 
 Observer Pattern is one of the behavioral design patterns.
 The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers,
-and notifies them automatically of any state changes, usually by calling one of their methods. (wikipedia)
+and notifies them automatically of any state changes, usually by calling one of their methods. (for more information click <a href="https://en.wikipedia.org/wiki/Observer_pattern">here</a>)
 
 
 ## The Project's Files:
@@ -43,7 +45,13 @@ Utility class for tracking the Java Virtual Machine resources allocated by the O
 ## UML
 
 ## How To Run?
+Download the project and run on your own IDE.
+
+Enjoy!
+
+## Bibliography
+* <a href="https://en.wikipedia.org/wiki/Observer_pattern">Wikipedia</a>
 
 ## Authors
-* @Yael Gabay
-* @Chen Lipschitz
+* @YaelGabay
+* @ChenLipschitz
