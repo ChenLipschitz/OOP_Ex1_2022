@@ -8,7 +8,7 @@ In Fact, there are 3 main classes- Gruop Admin, Member, UndoableStringBuilder.
 The group admin class contains a collection of members and whenever a change in the UndoableStringBuilder object is made the group admin notifies all the members-
 sends them the updated value/content of the UndoableStringBuilder object.
 
-### Extra Info About The Observer Pattern: 
+### Extra Info About The Observer Design Pattern: 
 Observer Pattern is one of the behavioral design patterns.
 The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers,
 and notifies them automatically of any state changes, usually by calling one of their methods. (for more information click <a href="https://en.wikipedia.org/wiki/Observer_pattern">here</a>)
