@@ -1,5 +1,7 @@
 # OOP_Ex1_2022
 
+![image](https://github.com/ChenLipschitz/OOP_Ex1_2022/blob/master/notifications.jpg)
+
 The following project focus on design patterns.
 
 In this project we have implemented UndoableStringBuilder in Java by using the Observer design pattern.
