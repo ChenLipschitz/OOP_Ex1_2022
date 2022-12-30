@@ -26,6 +26,10 @@ public class ConcreteMember implements Member{
     public String getNameUsbCM() {
         return nameUsbCM;
     }
+    
+    public UndoableStringBuilder getUsbConcreteMember() {
+        return usbConcreteMember;
+    }
 
     @Override
     public String toString() {
