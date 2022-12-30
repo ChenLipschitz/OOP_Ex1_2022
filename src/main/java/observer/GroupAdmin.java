@@ -5,8 +5,7 @@ import java.util.ArrayList;
  * The following class implements the Sender class
  * as part of Ex1 OOP 2022
  *
- * @author Chen Lipschitz- 207270612,
- * Yael Gabay-322653411
+ * @author Chen Lipschitz, Yael Gabay
  */
 
 public class GroupAdmin implements Sender{
