@@ -13,6 +13,8 @@ Observer Pattern is one of the behavioral design patterns.
 The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers,
 and notifies them automatically of any state changes, usually by calling one of their methods. (for more information click <a href="https://en.wikipedia.org/wiki/Observer_pattern">here</a>)
 
+![image](https://github.com/ChenLipschitz/OOP_Ex1_2022/blob/master/notificationsSmallIMG.jpg)
+
 
 ## The Project's Files:
 
@@ -42,7 +44,10 @@ Tests the GroupAdmin class.
 * JvmUtilities, Class-
 Utility class for tracking the Java Virtual Machine resources allocated by the Operating System.
 
-![image](https://github.com/ChenLipschitz/OOP_Ex1_2022/blob/master/notificationsSmallIMG.jpg)
+The Results:
+![image](https://github.com/ChenLipschitz/OOP_Ex1_2022/blob/master/Jvm-%20before%20appending.jpeg)
+![image](https://github.com/ChenLipschitz/OOP_Ex1_2022/blob/master/Jvm-%20after%20appending.jpeg)
+
 
 ## How To Run?
 Download the project and run on your own IDE.
