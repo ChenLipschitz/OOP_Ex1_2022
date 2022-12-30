@@ -8,8 +8,7 @@ import java.util.List;
  * The following class is implementation of the StringBuilder class as
  * part of Ex0 OOP 2022
  *
- * @author Chen Lipschitz- 207270612,
- * Yael Gabay-322653411
+ * @author Chen Lipschitz, Yael Gabay
  */
 
 class UndoableStringBuilder {
