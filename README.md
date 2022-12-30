@@ -44,8 +44,6 @@ Utility class for tracking the Java Virtual Machine resources allocated by the O
 
 ![image](https://github.com/ChenLipschitz/OOP_Ex1_2022/blob/master/notificationsSmallIMG.jpg)
 
-## UML
-
 ## How To Run?
 Download the project and run on your own IDE.
 
